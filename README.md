@@ -16,6 +16,7 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 - **Metodologias:** Scrum, Kanban
 - **Ferramentas:** Git, VS Code, Eclipse
 - *[Adicione outras habilidades relevantes]*
+- **Excel:** Apresento certificado reconhecido pela microsoft no app Excel.
 
 ## Projetos Destacados
 
