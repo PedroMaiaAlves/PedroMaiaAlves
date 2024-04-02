@@ -1,14 +1,14 @@
 # Perfil do Estudante de Engenharia de Software - PUC Minas
 
-Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Engenharia de Software na PUCO Minos, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
+Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Engenharia de Software na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
 
 ## Sobre Mim
 
-- 👨‍🎓 **Graduação**: 1º Periodo em Engenharia de Software pela PUCO Minos.
+- 👨‍🎓 **Graduação**: 1º Periodo em Engenharia de Software pela PUC Minas.
 - 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.
 - 💼 **Experiência Profissional**: Por enquanto busco oportunidades/estágio para contribuir em projetos com meu conhecimento.
 
-## Habilidades
+## Habilidades que estou desenvolvendo
 
 - **Linguagens de Programação:** Java, Python, C#
 - **Desenvolvimento Web:** HTML, CSS, JavaScript, React
