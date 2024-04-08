@@ -15,27 +15,21 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 - **Banco de Dados:** MySQL, MongoDB
 - **Metodologias:** Scrum, Kanban
 - **Ferramentas:** Git, VS Code, Eclipse
-- *[Adicione outras habilidades relevantes]*
 - **Excel:** Apresento certificado reconhecido pela microsoft no app Excel.
 
 ## Projetos Destacados
 
-### [Nome do Projeto]
-
-Breve descrição do projeto e suas tecnologias principais.
-
-### [Nome do Projeto]
-
-Breve descrição do projeto e suas tecnologias principais.
+Não apresento nenhum projeto destacado no momento.
 
 ## Contribuições
 
-- [Nome do Projeto/Open Source]: Breve descrição da contribuição.
+- Não apresento nenhuma contribuição no momento.
 
 ## Contato
 
 - **E-mail:** parodianos97@gmail.com
 - **Instagram:** https://www.instagram.com/sloowty/ 
 - **LinkedIn:** https://www.linkedin.com/in/pedro-henrique-maia-alves-978397291/
+
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
