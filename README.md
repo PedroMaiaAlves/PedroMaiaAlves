@@ -1,4 +1,4 @@
-<img src="github-header-image.png" width="1080px" height="200px"/></a>
+<img src="img/github-header-image.png" width="1080px" height="200px"/></a>
 
 # Perfil do Estudante de Engenharia de Software - PUC Minas
 
