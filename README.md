@@ -1,4 +1,4 @@
-<img src="https://github.com/PedroMaiaAlves/PedroMaiaAlves/blob/main/github-header-image%20(3).png" width="1080px" height="200px"/></a>
+<img src="github-header-image.png" width="1080px" height="200px"/></a>
 
 # Perfil do Estudante de Engenharia de Software - PUC Minas
 
