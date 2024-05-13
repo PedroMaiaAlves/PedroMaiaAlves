@@ -1,3 +1,5 @@
+<img src="https://github.com/PedroMaiaAlves/PedroMaiaAlves/blob/main/github-header-image%20(3).png" width="1080px" height="200px"/></a>
+
 # Perfil do Estudante de Engenharia de Software - PUC Minas
 
 Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Engenharia de Software na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
@@ -33,3 +35,10 @@ Não apresento nenhum projeto destacado no momento.
 
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
+
+<div>
+<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroMaiaAlves&theme=github_dark"/>
+<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PedroMaiaAlves&theme=github_dark"/> -->
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroMaiaAlves&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroMaiaAlves&theme=github_dark"/>
+</div>
