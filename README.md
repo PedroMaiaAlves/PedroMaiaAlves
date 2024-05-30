@@ -1,4 +1,4 @@
-<img src="img/SOFTWARE DEVELOPER(1).gif" width="1200px" height="400px"/></a>
+<img src="img/SOFTWARE DEVELOPER (1).gif" width="1200px" height="400px"/></a>
 
 # Perfil do Estudante de Engenharia de Software - PUC Minas
 
