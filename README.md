@@ -21,7 +21,7 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 
 ## Projetos Destacados
 
-Não apresento nenhum projeto destacado no momento.
+<a href="https://github.com/PedroMaiaAlves/TRABALHO-AEDs1/blob/main/README.md">Trabalho Hotel Descanso Garantido</a>
 
 ## Contribuições
 
