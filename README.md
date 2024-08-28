@@ -12,11 +12,11 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 
 ## Habilidades que estou desenvolvendo
 
-- **Linguagens de Programação:** Java, Python, C#
-- **Desenvolvimento Web:** HTML, CSS, JavaScript, React
+- **Linguagens de Programação:** C, Java, Python, C#
+- **Desenvolvimento Web:** HTML, CSS, JavaScript, React, Node
 - **Banco de Dados:** MySQL, MongoDB
 - **Metodologias:** Scrum, Kanban
-- **Ferramentas:** Git, VS Code, Eclipse
+- **Ferramentas:** Git, VS Code, Eclipse, NetBeans
 - **Excel:** Apresento certificado reconhecido pela microsoft no app Excel.
 
 ## Projetos Destacados
