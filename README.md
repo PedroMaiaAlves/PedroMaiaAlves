@@ -31,7 +31,7 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 
 - **E-mail:** parodianos97@gmail.com
 - **Instagram:** https://www.instagram.com/sloowty/ 
-- **LinkedIn:** https://www.linkedin.com/in/pedro-henrique-maia-alves-978397291/
+- **LinkedIn:** https://www.linkedin.com/in/pedromaiaalves1/
 
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
