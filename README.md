@@ -65,7 +65,10 @@
 </a>
 <a href="https://linkedin.com/in/pedromaiaalves1" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="mailto:parodianos97@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;"/>
+</a>
 </div>  
   
 
@@ -73,25 +76,22 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=PedroMaiaAlves&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
 <div align="center">
+  <p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=PedroMaiaAlves&show_icons=true&theme=prussian&include_all_commits=true&locale=pt-br"/>
+
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMaiaAlves&theme=prussian&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+ </p>
+<p> <div align="center">
 <img src="https://komarev.com/ghpvc/?username=PedroMaiaAlves&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-
-<div>
-<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroMaiaAlves&theme=github_dark"/>
-<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PedroMaiaAlves&theme=github_dark"/> -->
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroMaiaAlves&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroMaiaAlves&theme=github_dark"/>
-</div>
+</div></p>
+</div> 
