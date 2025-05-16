@@ -3,10 +3,12 @@
 </div>  
   
 
-### <div align="center">Um pouco sobre mim 🤓☝️</div>  
-  
+### <div align="center">Um pouco sobre mim </div>  
 
-- 👨‍🎓 **Graduação**: Atualmente cursando o 3º Periodo em Engenharia de Software pela PUC Minas com previsão de formatura em dezembro de 2027  
+- 🤓**Pessoal**: Me chamo Pedro Henrique Maia Alves, tenho 19 anos e me interesso muito pelo mundo tech e  o desenvolvimento de software.
+
+
+- 👨‍🎓 **Graduação**: Atualmente cursando o 3º Periodo em Engenharia de Software pela PUC Minas com previsão de formatura em dezembro de 2027.
   
 
 - 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em desenvolvimento de software.  
